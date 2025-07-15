@@ -1,4 +1,4 @@
-# Olá, eu sou o Kaiby21! 👋
+# Olá, eu sou o Kaíby Lima! 👋
 
 ## 🚀 Sobre mim
 
