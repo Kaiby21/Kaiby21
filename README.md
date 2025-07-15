@@ -19,7 +19,7 @@ Adoro estudar programação, aprender novas tecnologias e compartilhar conhecime
 
 ## 📌 Projetos em destaque
 
-- [Seu Projeto 1](https://github.com/Kaiby21/Projeto-Dio-DecolaTEch) — Descrição curta do projeto.
+- [Projeto Dio Decola Tech](https://github.com/Kaiby21/Projeto-Dio-DecolaTEch) — App de estudo de React Native.
 
 ## 📈 GitHub Stats
 
