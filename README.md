@@ -33,5 +33,7 @@ Adoro estudar programação, aprender novas tecnologias e compartilhar conhecime
 ---
 
 ✨ Sempre aprendendo e evoluindo!
-
-![github-snake-dark](https://raw.githubusercontent.com/Kaiby21/Kaiby21/output/dist/github-snake-dark.svg?palette=github-dark)
+<div align=center>
+   <img src="https://raw.githubusercontent.com/Kaiby21/Kaiby21/output/snake.svg" alt="Snake animation" />
+</div> 
+ 
